@@ -1,5 +1,8 @@
 ## Primeiras linhas de codigo utilizando flask
 
+## [0.1.2] - 2025-05-07
+- Criação dos primeiros templates (home e login)
+
 ## [0.1.1] - 2025-05-07
 - Criação routes home e login.
 
